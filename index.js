@@ -34,3 +34,6 @@ app.use((request,response)=>{
         message:"This endpoint doesnt exist"
     })
 })
+
+
+module.exports = app
